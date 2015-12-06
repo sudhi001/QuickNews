@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.3-414a64d90d57c6489cc52711be3c9126f9d5578e.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/picasso-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ed01353649330c692473b85d5c64db4218338db">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/picasso-2.3.1-6dbae28629c7c6d2f1018c3fda4327a4f19134de.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources-a78cb7edc2ab1f17bff8e4c2379806aac06930cb.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/android-support-v4-773f02e62563f3bf3a3e404f819e2e070e97455e.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/library.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a93475893db9a145ae408455a98823e7d2ffc5dd">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/library-7bc58af36e34fad0e2d3cf10ed9b5371d0c0be73.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7eb90d3407943ccbac85ddb1406522baa36ef0ba">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/volley-3ef2d63f2bfa35402d6785538209bf4314796193.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/exploded-aar/QuickNews-tiger/vitamio/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="015cb3b8fa3a6da60e6ca8e6bb5c43f1f29ae528">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/classes-bf837841995021b4334bb2326a2315ae6d533e1e.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/com.haarman.listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/com.haarman.listviewanimations-2.6.0-60077becac28a7786f9fc98dcdebc6367ac414fb.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3b07785e04ffc3ce231da4731594424a07ed936">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/umeng-update-v2.4.2-d64962ac2507591175f2c34aa6aa8dfffc7e92b3.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/umeng-fb-v4.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdaa710c971bbcc51de6568c003448c0ebe5b7ad">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/umeng-fb-v4.3.2-175eef6bcaa539f422d1cc82e3a8914b208fdc4e.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/viewpagertransformslibrary.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d998eb36ff6a613ff8cc6aeba5e6cb270939b06">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/viewpagertransformslibrary-5800e4f4b30c829dacabe806bae8337d2ff03cd6.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-f41035463d58df4652a61037873ac4c376a32616.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/support.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23670db5f1d039dca7bf2fe7feca8791752f9ee5">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/support-0ebe76b9139c05442dff2c50261affd155ac061e.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/libs/androidannotations-api-3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac33174269a767fcbf3a944cdb3d52e07ef93bee">
+        <dex dex="/Users/baidu/百度云同步盘/homework/QuickNews-tiger/QuickNews/build/intermediates/pre-dexed/debug/androidannotations-api-3.1-9467a043ee16d1c9b529184141de316c7ac33fed.jar" />
+    </item>
+
+</items>
